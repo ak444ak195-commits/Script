@@ -20,7 +20,7 @@ local Config = {
     PlatoSecret     = "95922447-cb88-4e5f-ac39-029dce8977b7", -- Your PlatoBoost Secret Key
 
     -- [2] Anti-Bypass / Global Secret Variable
-    Secret          = "19569", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
+    Secret          = "195", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
     MainScriptURL   = "https://raw.githubusercontent.com/ak444ak195-commits/Script/refs/heads/main/Script.lua", -- The raw URL of your main script
@@ -39,11 +39,11 @@ local Config = {
     KeyFileName     = "Mykey.txt", -- The name of the file where the valid key will be saved for auto-login
 
     -- [6] GUI Management
-    OldGuiName      = "Chick🐔 15 script", -- Name of the old GUI to destroy if it's already open
-    MainGuiName     = "Chick🐔 15 script", -- Name of the main script's GUI to check if it's already executing
+    OldGuiName      = "Chick🐔 17 script", -- Name of the old GUI to destroy if it's already open
+    MainGuiName     = "Chick🐔 17script", -- Name of the main script's GUI to check if it's already executing
 
     -- [7] Hub Information & UI Text
-    HubName         = "Chick🐔 15 script", -- The main title shown at the top of the GUI
+    HubName         = "Chick🐔 17 script", -- The main title shown at the top of the GUI
     HubDescription  = "Chick🐔" -- The text shown below the title
 }
 
