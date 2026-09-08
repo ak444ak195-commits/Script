@@ -16,14 +16,14 @@
 ]]
 local Config = {
     -- [1] PlatoBoost Settings
-    ServiceId       = 0, -- Your PlatoBoost Service ID
-    PlatoSecret     = "Token", -- Your PlatoBoost Secret Key
+    ServiceId       = 31331, -- Your PlatoBoost Service ID
+    PlatoSecret     = "cce0a4ed-7d9f-437c-8453-64055de9691f", -- Your PlatoBoost Secret Key
 
     -- [2] Anti-Bypass / Global Secret Variable
     Secret          = "Code", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
-    MainScriptURL   = "Link", -- The raw URL of your main script
+    MainScriptURL   = "196", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
