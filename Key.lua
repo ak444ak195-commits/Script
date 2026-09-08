@@ -39,11 +39,11 @@ local Config = {
     KeyFileName     = "Mykey.txt", -- The name of the file where the valid key will be saved for auto-login
 
     -- [6] GUI Management
-    OldGuiName      = "Chick", -- Name of the old GUI to destroy if it's already open
-    MainGuiName     = "Chick", -- Name of the main script's GUI to check if it's already executing
+    OldGuiName      = "Chick🐔 15 script", -- Name of the old GUI to destroy if it's already open
+    MainGuiName     = "Chick🐔 15 script", -- Name of the main script's GUI to check if it's already executing
 
     -- [7] Hub Information & UI Text
-    HubName         = "Chick 15 script", -- The main title shown at the top of the GUI
+    HubName         = "Chick🐔 15 script", -- The main title shown at the top of the GUI
     HubDescription  = "Chick🐔" -- The text shown below the title
 }
 
